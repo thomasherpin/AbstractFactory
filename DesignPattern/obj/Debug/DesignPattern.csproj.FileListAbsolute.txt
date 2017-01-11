@@ -1,0 +1,14 @@
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\MainWindow.g.cs
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\App.g.cs
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern_MarkupCompile.cache
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern_MarkupCompile.lref
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\MainWindow.baml
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.g.resources
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.Properties.Resources.resources
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.GenerateResource.Cache
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+c:\users\zedyfis\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\zedyfis\Documents\Visual Studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
